@@ -1,6 +1,5 @@
-<p align="center">
-  ## 🔱 Windows Rat Without Port Forwarding 
-</p>
+
+ ## 🔱 Windows Rat Without Port Forwarding 
 
 ## Features
 - Screenshot
@@ -33,13 +32,16 @@
   <li><span style="color: #2ECC40;">Windows For Setup</span></li>
   <li><span style="color: #0074D9;">Telegram Bot</span></li>
 <ul>
-  
-## How Setup
-1. Download Knt Build From Reles
-2. Open Builder
-3. Set Your Telegram Toekn
-4. Set Your Telegram User ID
-5. Set Output Folder 
-6. Click to Build 
+
+<h2How Setup</h2>
+<ul>
+  <li><span style="color: #2ECC40;">1. Download Knt Build From Reles</span></li>
+  <li><span style="color: #2ECC40;">2. Open Builder</span></li>
+  <li><span style="color: #2ECC40;">3. Set Your Telegram Toekn</span></li>
+  <li><span style="color: #2ECC40;">4. Set Your Telegram User ID</span></li>
+  <li><span style="color: #2ECC40;">5. Set Output Folder</span></li>
+  <li><span style="color: #2ECC40;">6. Click to Build</span></li>
+<ul>
+
     
 
