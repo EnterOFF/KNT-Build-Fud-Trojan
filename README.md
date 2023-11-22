@@ -3,7 +3,6 @@
  <h2 align="center">Screenshot</h2>
 <p align="center">
   <img src="1.png" alt="Logo" />
-   <img src="2.png" alt="Logo" />
 </p>
 
 ## Features
