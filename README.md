@@ -26,7 +26,7 @@
 - Grab Wallet
 - Grab Telegram
 - Grab Discord
-- Grab Steam
+- Grabb Steam
 - Keylogger
 - Clipboard
 - Webcam
