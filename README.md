@@ -32,7 +32,7 @@
 - Webcam
 - Beautiful telegram bot interface 
 - Undetectable by antivirus !!
--  🤖 And 20 Other Features
+-  🤖 And 20 Other Features.
 <h2>Requirements</h2>
 <ul>
   <li><span style="color: #2ECC40;">Windows For Setup</span></li>
