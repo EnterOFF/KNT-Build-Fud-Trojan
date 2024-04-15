@@ -36,7 +36,7 @@
 <h2>Requirements</h2>
 <ul>
   <li><span style="color: #2ECC40;">Windows For Setup</span></li>
-  <li><span style="color: #0074D9;">Telegram Bot</span></li>
+  <li><span style="color: #0074D9;">Telegram Bot.</span></li>
 <ul>
 
 <h2>How Setup</h2>
